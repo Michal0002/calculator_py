@@ -1,2 +1,2 @@
-    num1 = float(input("Podaj pierwszą liczbę: "))
-    num2 = float(input("Podaj drugą liczbę: "))
+number_1 = input("Enter number 1: ")
+number_2 = input("Enter number 2: ")
