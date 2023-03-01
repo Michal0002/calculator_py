@@ -1,2 +1,8 @@
 number_1 = input("Enter number 1: ")
 number_2 = input("Enter number 2: ")
+print("1. Dodaj")
+print("2. Odejmij")
+print("3. Pomnóż")
+print("4. Podziel")
+print("5. Wyjdź")
+choice = input("Wybierz numer operacji: ")
